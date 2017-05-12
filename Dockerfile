@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER git@dariozanzico.com
+MAINTAINER 1017274047@qq.com
 
 RUN apt-get update && apt-get install -y \
     wget \
